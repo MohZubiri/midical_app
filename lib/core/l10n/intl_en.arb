@@ -1,0 +1,21 @@
+{
+    "appTitle": "Medication Reminder",
+    "@appTitle": {
+        "description": "The title of the application"
+    },
+    "login": "Login",
+    "register": "Register",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "medications": "Medications",
+    "addMedication": "Add Medication",
+    "medicationName": "Medication Name",
+    "dosage": "Dosage",
+    "schedule": "Schedule",
+    "notifications": "Notifications",
+    "settings": "Settings",
+    "language": "Language",
+    "theme": "Theme",
+    "logout": "Logout"
+}
